@@ -1,0 +1,30 @@
+h5{
+    background-color: rgb(13, 92, 182);
+    color: rgb(255, 255, 255);
+    font-family: 'system-ui';
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h2{
+    padding-bottom: 15px;
+}
+
+.motive{
+    padding-left: 15px;
+}
+
+p, address, a{
+    font-family: 'system-ui';
+}
+
+th{
+    background-color: rgb(13, 92, 182);
+    color: rgb(255, 255, 255);
+    font-family: 'system-ui';
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
